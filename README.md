@@ -22,3 +22,5 @@ NTP: Network Time Protocol is a networking protocol for clock synchronization be
 
 
 
+Once we have synchronized the internal RTC with the remote time server, we could forward this information further to other devices. 
+
