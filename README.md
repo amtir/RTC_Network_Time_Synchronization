@@ -2,7 +2,7 @@
 
 For IoT application, it is crutial to synchronize your internal RTC before sending or receiving packets over the internet. 
 
-The Raspberry embedded system have the network time synchronization service enabled by default as shown in the picture below: 
+Our Raspberry embedded system with the Raspbian GNU/Linux has the network time synchronization service enabled by default as shown in the picture below: 
 
 ![nts image](/photos/remote_time_server_nts_status.jpg)
 
