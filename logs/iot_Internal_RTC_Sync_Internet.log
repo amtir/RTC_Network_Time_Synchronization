@@ -1,0 +1,23 @@
+2012-04-19 11:14:11,997 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 42  — MainThread — date before resync: jeudi 19 avril 2012, 11:14:11 (UTC+0200)
+
+2012-04-19 11:14:12,028 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 47  — MainThread — Waiting IoT connection ...
+2012-04-19 11:14:12,030 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 47  — MainThread — Waiting IoT connection ...
+2012-04-19 11:14:12,032 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 47  — MainThread — Waiting IoT connection ...
+2012-04-19 11:14:12,034 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 47  — MainThread — Waiting IoT connection ...
+2012-04-19 11:14:12,036 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 47  — MainThread — Waiting IoT connection ...
+2012-04-19 11:14:12,038 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 47  — MainThread — Waiting IoT connection ...
+2012-04-19 11:14:12,041 — logger_internal_rtc — ERROR — RTC_Internal_update.py — rtc_update — 88  — MainThread — Internet connection is not set! - Not Online.
+2012-04-19 11:15:27,953 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 42  — MainThread — date before resync: jeudi 19 avril 2012, 11:15:27 (UTC+0200)
+
+2012-04-19 11:15:30,239 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 59  — MainThread — Got an IoT internet connection - Online.
+2016-11-03 18:16:42,022 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 66  — MainThread — systemd-timesyncd.service restarted.
+2019-07-19 09:10:01,146 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 72  — MainThread — daemon-reload reloaded.
+2019-07-19 09:10:04,174 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 82  — MainThread — date after resync: vendredi 19 juillet 2019, 09:10:04 (UTC+0200)
+
+2019-07-19 10:26:55,364 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 39  — MainThread — date before resync: vendredi 19 juillet 2019, 10:26:55 (UTC+0200)
+
+2019-07-19 10:26:55,920 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 56  — MainThread — Got an IoT internet connection - Online.
+2019-07-19 10:26:56,442 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 63  — MainThread — systemd-timesyncd.service restarted.
+2019-07-19 10:26:57,044 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 69  — MainThread — daemon-reload reloaded.
+2019-07-19 10:27:00,070 — logger_internal_rtc — INFO — RTC_Internal_update.py — rtc_update — 79  — MainThread — date after resync: vendredi 19 juillet 2019, 10:27:00 (UTC+0200)
+
