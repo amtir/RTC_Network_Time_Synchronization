@@ -4,6 +4,10 @@ For IoT application, it is crutial to synchronize your internal RTC before to se
 
 The Raspberry embedded system have the network time synchronization service enabled by default as shown in the picture below: 
 
+![GitHub Logo](/images/logo.png)
+
+![simple image](/photos/remote_time_server_nts_status.jpg)
+
 
 The RTC_Internal_update.py python program forces the Network Time Synchronization (NTS) to synchronize the internal RTC as shown in the picture below: 
 
